@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+* text=auto
+=======
+* text=auto eol=lf
+>>>>>>> 9d88cf1 (complete laravel login system)
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+/.github export-ignore
+CHANGELOG.md export-ignore
+.styleci.yml export-ignore

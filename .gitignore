@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+=======
+/.phpunit.cache
+>>>>>>> 9d88cf1 (complete laravel login system)
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+<<<<<<< HEAD
+=======
+.env.production
+>>>>>>> 9d88cf1 (complete laravel login system)
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+<<<<<<< HEAD
+=======
+/.fleet
+>>>>>>> 9d88cf1 (complete laravel login system)
+/.idea
+/.vscode
